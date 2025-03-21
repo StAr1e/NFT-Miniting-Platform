@@ -21,7 +21,8 @@ The **NFT Minting Platform** is a decentralized application (dApp) built using *
 ## 📂 Installation Guide
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/your-username/NFT-Miniting-Platform.git
+git clone https://github.com/StAr1e
+/NFT-Miniting-Platform.git
 ```
 ### 2️⃣ Install Dependencies
 ```sh
