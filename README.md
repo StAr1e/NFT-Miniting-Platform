@@ -13,7 +13,7 @@ The **NFT Minting Platform** is a decentralized application (dApp) built using *
 - 🔹 **Marketplace Integration** (Optional)
 
 ## 🛠️ Tech Stack
-- **Frontend:** TypeScript, CSS, React (Optional)
+- **Frontend:** TypeScript, CSS
 - **Blockchain:** Solidity, Web3.js / Ethers.js
 - **Backend (Optional):** Node.js, Express
 - **Smart Contracts:** Ethereum, Polygon, Binance Smart Chain (BSC)
